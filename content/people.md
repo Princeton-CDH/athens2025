@@ -4,78 +4,42 @@ title: People
 
 ## Instructors
 
-[Sierra Eckert](https://cdh.princeton.edu/people/sierra-eckert/), Perkins Postdoctoral Fellow, Center for Digital Humanities
+[Agiatis Benardou](http://www.dcu.gr/en/%CE%B1%CE%B3%CE%B9%CE%AC%CF%84%CE%B9%CF%82-%CE%BC%CF%80%CE%B5%CE%BD%CE%AC%CF%81%CE%B4%CE%BF%CF%85/), Senior Researcher, Digital Curation Unit, IMIS-Athena Research Center
+
+[Panos Constantopoulos](https://www.aueb.gr/en/faculty_page/constantopoulos-panos), UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB
+
+[Vicky Dritsou](http://www.dcu.gr/en/dritsou/), Scientific Associate, Digital Curation Unit, IMIS-Athena Research Center
 
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Executive Director, Center for Digital Humanities
 
-[Ryan Heuser](https://ryanheuser.org/), Research Software Engineer, Center for Digital Humanities
+[Georgios Papaioannou](https://www.aueb.gr/en/faculty_page/papaioannou-georgios), Associate Professor, Department of Informatics, AEUB
 
-[Rebecca Sutton Koeser](https://cdh.princeton.edu/people/rebecca-sutton-koeser/), Lead Developer, Center for Digital Humanities
-
-[David Kinney](https://uchv.princeton.edu/people/david-kinney), Postdoctoral Research Associate in Cognitive Science of Values, University Center for Human Values
-
-[Meredith Martin](https://english.princeton.edu/people/meredith-martin), Associate Professor, Department of English; Director of the Center for Digital Humanities
-
-[Amy Winecoff](https://citp.princeton.edu/citp-people/amy-winecoff/), DataX Fellow, Center for IT Policy & Center for Statistics and Machine Learning
-
-[Grant Wythoff](https://cdh.princeton.edu/people/grant-r-wythoff/), Digital Humanities Strategist, Center for Digital Humanities
+[Nikitas Tampakis](https://www.library.upenn.edu/detail/person/nikitas-tampakis), Director of Application Development, University of Pennsylvania Libraries
 
 ## Participants
 
 ### Summer 2023
 
-Alex Davis, Lecturer, Princeton Writing Program
+Pria Garcelle
 
-Allison Carruth, Professor of American Studies and Environmental Studies
+Georgia Kakouti
 
-Andrea Capra, Postdoctoral Fellow in the Society of Fellows and Lecturer in French and Italian
+Sofia Kastanidi
 
-Andrew Chignell, Professor, University Center for Human Values; Religion; Philosophy
+Aleksander Musial
 
-Beth Semel, Assistant Professor of Anthropology
+Maria Pantazi
 
-Elise Mitchell, Presidential Postdoctoral Fellow and Lecturer in History
+Elpida Perdiki
 
-Haley Brennan, PhD Student, Philosophy
+Maria-Alessia Rossi
 
-Mario Soriano, Postdoctoral Research Associate, Lecturer, and Fellow at the High Meadows Environmental Institute
+Vasileios Siochos
 
-Patrick Jaojoco, PhD Student, African American Studies
+Chrysa Theologou
 
-Reena Goldthreem, Assistant Professor, African American Studies
+Danai Thomaidis
 
-Xin Zou	Lecturer, East Asian Studies
+Sotiria Tsavdara
 
-### Winter 2023
-
-Jada Bishop, PhD Student, Classics
-
-Barron Bixler, Art and Media Specialist, High Meadows Environmental Institute
-
-Dannelle Gutarra Cordero, Lecturer in African American Studies, Gender and Sexuality Studies
-
-Tiako Djomatchoua Murielle Sandra, PhD Student, French & Italian
-
-Brigid Doherty, Associate Professor of German and Art & Archaeology
-
-Sara Green, PhD Student, Art & Archaeology
-
-Janet Kay, Associate Research Scholar and Lecturer, Art & Archaeology
-
-Josh Kotin, Associate Professor of English
-
-Fedor Karmanov, PhD Student, English
-
-Emma Ljung, Lecturer, Princeton Writing Program
-
-Elizabeth Margulis, Professor of Music and Director of Music Cognition Lab
-
-Ijeoma Odoh, Lecturer in Department of African American Studies
-
-Rachel Richman, PhD Student, Near Eastern Studies
-
-Marina Rustow, Khedouri A. Zilkha Professor of Jewish Civilization in the Near East, NES; History
-
-Tim Szetela, Lecturer in Visual Arts, Lewis Center for the Arts
-
-Cara Turnbull, PhD Student, Music
+Metaxia Tsoukatou
