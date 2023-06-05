@@ -1,7 +1,7 @@
-baseURL = "https://princeton-cdh.github.io/athens-institute/"
+baseURL = "https://princeton-cdh.github.io/athens2023/"
 languageCode = "en-US"
 title = "Summer Institute: Digital Humanities for Hellenic Studies"
-theme = "athens-institute"
+theme = "athens2023"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 enableEmoji = true
 
