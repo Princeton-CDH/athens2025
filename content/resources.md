@@ -10,7 +10,7 @@ title: Resources
 
 ***********
 
-## Data Analysis and Artificial Intelligence
+## Machine Learning and Artificial Intelligence for the Humanities
 ### Readings
 Sara Brown, "[Machine learning, explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)", Ideas Made to Matter, MIT Sloan School of Management (April 21, 2021)
 
@@ -28,7 +28,7 @@ Textual Data
 - [BERT for Humanists](http://www.bertforhumanists.org/) provides tutorials in natural language processing (NLP) and machine learning for a humanities audience. Workshops (with Google Colab Notebooks) include:
   * [Word Similarity](http://www.bertforhumanists.org/tutorials/#word-similarity)
   * [Classification](http://www.bertforhumanists.org/tutorials/#classification)
-## Data Management, Information Modeling
+## Information Modeling
 ### Readings
 Data management basics:
  - Parthenos Training Module “[Manage, Improve and Open Up Your Research And Data](http://training.parthenos-project.eu/sample-page/manage-improve-and-open-up-your-research-and-data/)”
@@ -63,7 +63,7 @@ Standardized information models:
 
 Jonathan Reeve, [Installing Omeka](https://programminghistorian.org/en/lessons/installing-omeka), The Programming Historian
 
-## Computer Graphics and Interactive Storytelling
+## 3D Data Acquisition and Visualization
 ### Readings
 [Lecture Notes on Digitization Technologies, Techniques and Applications](https://auebgr-my.sharepoint.com/:f:/g/personal/gepap_aueb_gr/Eh8Caw71KIVIgLl21ez1v80BClyoq5fZVlrjpRPks_Ppfw?e=6Gaq6r) (MSc in Digital Methods for the Humanities, AUEB)
 ### Resources
@@ -92,13 +92,15 @@ Adobe Substance 3D Painter (free academic license) – professional texture / ma
 
 [Telling Tales: Digital Storytelling as a Tool for Qualitative Data Interpretation and Communication](https://journals.sagepub.com/doi/full/10.1177/16094069211022529)
 
+[Block 15](https://block15.aueb.gr/)
+
 [Victim or Executioner? Let the Computer Decide](https://www.nytimes.com/2020/05/11/world/europe/ukraine-holocaust-babyn-yar.html)
 
 [That Dragon, Cancer](https://en.wikipedia.org/wiki/That_Dragon,_Cancer) (plus references at the bottom)
 
 [Carne y Arena](https://phi.ca/en/carne-y-arena/)
 
-[Block 15](https://block15.aueb.gr/)
+
 
 ## Digital Humanities Project Design and management
 ### Readings
