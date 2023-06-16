@@ -11,11 +11,12 @@ title: Resources
 ***********
 
 ## Machine Learning and Artificial Intelligence for the Humanities
-### Readings
+### Material to review in advance 
 Sara Brown, "[Machine learning, explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)", Ideas Made to Matter, MIT Sloan School of Management (April 21, 2021)
 
 Amandalynne Paullada et al., “Data and Its (Dis)Contents: A Survey of Dataset Development and Use in Machine Learning Research,” Patterns, no. 2 (November 12, 2021): 1–14, https://doi.org/10.1016/J.PATTER.2021.100336.
-### Resources
+
+### Resources & references
 Mimi Onuoha and Mother Cyborg, [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf) (Allied Media Projects, 2018)
 
 Tony Chu and Stephanie Yee, "[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)," R2D3.
@@ -28,15 +29,16 @@ Textual Data
 - [BERT for Humanists](http://www.bertforhumanists.org/) provides tutorials in natural language processing (NLP) and machine learning for a humanities audience. Workshops (with Google Colab Notebooks) include:
   * [Word Similarity](http://www.bertforhumanists.org/tutorials/#word-similarity)
   * [Classification](http://www.bertforhumanists.org/tutorials/#classification)
+
 ## Information Modeling
-### Readings
+### Material to review in advance (skim)
 Data management basics:
  - Parthenos Training Module “[Manage, Improve and Open Up Your Research And Data](http://training.parthenos-project.eu/sample-page/manage-improve-and-open-up-your-research-and-data/)”
 
 Representing and organizing information:
  - Panos Constantopoulos, [An Introduction to Conceptual Modelling](https://campus.dariah.eu/resource/posts/an-introduction-to-conceptual-modelling), DARIAH Campus
  - Parthenos Training Module “[Formal Ontologies: A Complete Novice’s Guide](https://training.parthenos-project.eu/sample-page/formal-ontologies-a-complete-novices-guide/)”
-### Resources
+### Resources & references
 More on representing and organizing information:
  - Ksenia Zaytseva, [Controlled Vocabularies and SKOS](https://campus.dariah.eu/resource/posts/controlled-vocabularies-and-skos), DARIAH Campus
  - Dominique Oldman & CRM Labs, [CIDOC CRM Primer](https://www.cidoc-crm.org/sites/default/files/CRMPrimer_v1.1_1.pdf)
@@ -64,9 +66,9 @@ Standardized information models:
 Jonathan Reeve, [Installing Omeka](https://programminghistorian.org/en/lessons/installing-omeka), The Programming Historian
 
 ## 3D Data Acquisition and Visualization
-### Readings
+### Material to review in advance (skim)
 [Lecture Notes on Digitization Technologies, Techniques and Applications](https://auebgr-my.sharepoint.com/:f:/g/personal/gepap_aueb_gr/Eh8Caw71KIVIgLl21ez1v80BClyoq5fZVlrjpRPks_Ppfw?e=6Gaq6r) (MSc in Digital Methods for the Humanities, AUEB)
-### Resources
+### Resources & references
 Computer Graphics: Principles and Practice, 3rd Edition, John Hughes, Andries van Dam, Morgan McGuire, David Sklar, James Foley, Steven Feiner, Kurt Akeley, ISBN-13 978-0321399526, Addison-Wesley Professional, 2013.
 
 Fundamentals of Computer Graphics: International Student Edition, 5th Edition, Steve Marschner, Peter Shirley, ISBN-13 978-0367505035, A K Peters/CRC Press, 2021.
@@ -87,23 +89,21 @@ Adobe Substance 3D Painter (free academic license) – professional texture / ma
 
 [Unreal Engine](https://www.unrealengine.com/en-US) (free for non-commercial use)
 ## Digital narratives
-### Readings
+### Material to review in advance 
 [Data-driven processes in participatory urbanism: the “smartness” of historical cities](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRypRZAAAAAJ&citation_for_view=JRypRZAAAAAJ:XiSMed-E-HIC)
 
 [Telling Tales: Digital Storytelling as a Tool for Qualitative Data Interpretation and Communication](https://journals.sagepub.com/doi/full/10.1177/16094069211022529)
 
 [Block 15](https://block15.aueb.gr/)
-
+### Resources & references
 [Victim or Executioner? Let the Computer Decide](https://www.nytimes.com/2020/05/11/world/europe/ukraine-holocaust-babyn-yar.html)
 
 [That Dragon, Cancer](https://en.wikipedia.org/wiki/That_Dragon,_Cancer) (plus references at the bottom)
 
 [Carne y Arena](https://phi.ca/en/carne-y-arena/)
 
-
-
 ## Digital Humanities Project Design and management
-### Readings
+### Material to review in advance 
 Boyd, J. (2022). Digital Humanities Project Management as Scholarly Exchange. IDEAH. https://doi.org/10.21428/f1f23564.a4156d43
 ### Resources
 Project charter template [coming soon]
