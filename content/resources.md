@@ -121,6 +121,10 @@ Off the Tracks. “[Collaborators’ Bill of Rights](https://mcpress.media-commo
 
 [General broad overview introduction to DH & list of resources](https://research.lib.buffalo.edu/dh/home)
 
+[Programming Historian](https://programminghistorian.org/) is a peer-reviewed academic journal of digital humanities and digital history methodology. This flagship resource for digital humanities research methods publishes tutorials that help humanities scholars learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
+
+[DARIAH-Campus](https://campus.dariah.eu/) is a discovery framework and hosting platform for learning resources. 
+
 Examples of how DH and eHeritage approaches in cooperation with relevant research infrastructures can lead to innovative research questions and methods: [Parthenos Training Module “Digital Humanities Research Questions and Methods”](https://training.parthenos-project.eu/sample-page/digital-humanities-research-questions-and-methods/)
 
 On design thinking:
