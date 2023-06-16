@@ -125,6 +125,8 @@ Off the Tracks. “[Collaborators’ Bill of Rights](https://mcpress.media-commo
 
 [DARIAH-Campus](https://campus.dariah.eu/) is a discovery framework and hosting platform for learning resources. 
 
+[Reviews in Digital Humanities](https://reviewsindh.pubpub.org) is an online peer-reviewed journal and project registry that facilitates scholarly evaluation and dissemination of digital humanities work and its outputs. Project included include but are not limited to: digital archives, multimedia or multimodal scholarship, digital exhibits, visualizations, digital games, and digital tools. 
+
 Examples of how DH and eHeritage approaches in cooperation with relevant research infrastructures can lead to innovative research questions and methods: [Parthenos Training Module “Digital Humanities Research Questions and Methods”](https://training.parthenos-project.eu/sample-page/digital-humanities-research-questions-and-methods/)
 
 On design thinking:
