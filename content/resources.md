@@ -65,6 +65,20 @@ Standardized information models:
 
 Jonathan Reeve, [Installing Omeka](https://programminghistorian.org/en/lessons/installing-omeka), The Programming Historian
 
+## Digital narratives
+### Material to review in advance 
+[Data-driven processes in participatory urbanism: the “smartness” of historical cities](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRypRZAAAAAJ&citation_for_view=JRypRZAAAAAJ:XiSMed-E-HIC)
+
+[Telling Tales: Digital Storytelling as a Tool for Qualitative Data Interpretation and Communication](https://journals.sagepub.com/doi/full/10.1177/16094069211022529)
+
+[Block 15](https://block15.aueb.gr/)
+### Resources & references
+[Victim or Executioner? Let the Computer Decide](https://www.nytimes.com/2020/05/11/world/europe/ukraine-holocaust-babyn-yar.html)
+
+[That Dragon, Cancer](https://en.wikipedia.org/wiki/That_Dragon,_Cancer) (plus references at the bottom)
+
+[Carne y Arena](https://phi.ca/en/carne-y-arena/)
+
 ## 3D Data Acquisition and Visualization
 ### Material to review in advance (skim)
 [Lecture Notes on Digitization Technologies, Techniques and Applications](https://auebgr-my.sharepoint.com/:f:/g/personal/gepap_aueb_gr/Eh8Caw71KIVIgLl21ez1v80BClyoq5fZVlrjpRPks_Ppfw?e=6Gaq6r) (MSc in Digital Methods for the Humanities, AUEB)
@@ -88,19 +102,6 @@ Adobe Substance 3D Painter (free academic license) – professional texture / ma
 [Unity Engine](https://unity.com/) (free for non-commercial use)
 
 [Unreal Engine](https://www.unrealengine.com/en-US) (free for non-commercial use)
-## Digital narratives
-### Material to review in advance 
-[Data-driven processes in participatory urbanism: the “smartness” of historical cities](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JRypRZAAAAAJ&citation_for_view=JRypRZAAAAAJ:XiSMed-E-HIC)
-
-[Telling Tales: Digital Storytelling as a Tool for Qualitative Data Interpretation and Communication](https://journals.sagepub.com/doi/full/10.1177/16094069211022529)
-
-[Block 15](https://block15.aueb.gr/)
-### Resources & references
-[Victim or Executioner? Let the Computer Decide](https://www.nytimes.com/2020/05/11/world/europe/ukraine-holocaust-babyn-yar.html)
-
-[That Dragon, Cancer](https://en.wikipedia.org/wiki/That_Dragon,_Cancer) (plus references at the bottom)
-
-[Carne y Arena](https://phi.ca/en/carne-y-arena/)
 
 ## Digital Humanities Project Design and management
 ### Material to review in advance 
