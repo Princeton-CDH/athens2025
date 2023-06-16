@@ -28,7 +28,7 @@ Textual Data
 - [BERT for Humanists](http://www.bertforhumanists.org/) provides tutorials in natural language processing (NLP) and machine learning for a humanities audience. Workshops (with Google Colab Notebooks) include:
   * [Word Similarity](http://www.bertforhumanists.org/tutorials/#word-similarity)
   * [Classification](http://www.bertforhumanists.org/tutorials/#classification)
-## Data Management
+## Data Management, Information Modeling
 ### Readings
 Data management basics:
  - Parthenos Training Module “[Manage, Improve and Open Up Your Research And Data](http://training.parthenos-project.eu/sample-page/manage-improve-and-open-up-your-research-and-data/)”

@@ -12,7 +12,7 @@ title: People
 
 [Natalia Ermolaev](https://cdh.princeton.edu/people/natasha-ermolaev/), Executive Director, Center for Digital Humanities
 
-[Georgios Papaioannou](https://www.aueb.gr/en/faculty_page/papaioannou-georgios), Associate Professor, Department of Informatics, AEUB
+[Georgios Papaioannou](https://www.aueb.gr/en/faculty_page/papaioannou-georgios), Associate Professor, Department of Informatics, AUEB
 
 [Nikitas Tampakis](https://www.library.upenn.edu/detail/person/nikitas-tampakis), Director of Application Development, University of Pennsylvania Libraries
 
