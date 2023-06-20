@@ -31,11 +31,11 @@ The following schedule runs from July 3 – 7, 2023. Each day will involve a mix
 <span class="color">11:00 – 12:00</span>
 : **Information modeling**
 : Panos Constantopoulou, *UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB*
-: Vicky Dritsou, *Scientific Associate, Digital Curation Unit, IMIS-Athena Research Center*
+: Vicky Dritsou, *Scientific Associate, Digital Curation Unit, IMSI-Athena Research Center and Postdoctoral Fellow, AUEB*
 
 <span class="color">12:00 – 13:00</span>
 : **Digital narratives**
-: Agiatis Benardou, *Senior Researcher, Digital Curation Unit, IMIS-Athena Research Center*
+: Agiatis Benardou, *Director of DARIAH-EU, Senior Researcher, Digital Curation Unit, IMSI-Athena Research Center and Postdoctoral Fellow, AUEB*
 : Georgios Papaioannou, *Associate Professor, Department of Informatics, AUEB*
 
 Lunch break
@@ -123,7 +123,7 @@ Lunch break
 
 <span class="color">11:00 – 12:00</span>
 : **Workflows by example**
-: Maria Ilvanidou, *Scientific Associate, Digital Curation Unit, IMIS-Athena Research Center*
+: Maria Ilvanidou, *Scientific Associate, Digital Curation Unit, IMSI-Athena Research Center and Teaching Fellow, AUEB*
 : Vicky Dritsou
 
 <span class="color">12:00 – 13:30</span>
@@ -131,7 +131,7 @@ Lunch break
 
 ### Afternoon
 <span class="color">14:00 – 16:00</span>
-: *Site visit - Dome project*
+: *Site visit to the Foundation of the Hellenic World*
 
 ## Friday: Day 5 - Princeton Athens Center
 
