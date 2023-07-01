@@ -103,7 +103,7 @@ Adobe Substance 3D Painter (free academic license) – professional texture / ma
 
 [Unreal Engine](https://www.unrealengine.com/en-US) (free for non-commercial use)
 
-## Digital Humanities Project Design and management
+## Digital Humanities Project Design and Management
 ### Material to review in advance 
 Boyd, J. (2022). Digital Humanities Project Management as Scholarly Exchange. IDEAH. https://doi.org/10.21428/f1f23564.a4156d43
 ### Resources
@@ -116,6 +116,8 @@ Project charter template [coming soon]
 [The Socio-Technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/) (University of Pittsburgh); a "structured group exercise that guides participants through the process of creating effective sustainability plans" for digital projects.  A series of modules helps teams plan and create social and technical infrastructure that will ensure the sustainability and preservation of digital work.
 
 Off the Tracks. “[Collaborators’ Bill of Rights](https://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/)”. 2011.
+
+Accessibility & Usability: [Yale Univesity Resources for Digital Humanities: Accessibility](https://guides.library.yale.edu/dh/accessibility) and Williams, George H. [“Disability, Universal Design, and the Digital Humanities.“](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/2a59a6fe-3e93-43ae-a42f-1b26d1b4becc#ch12)
 
 ## General Resources
 
