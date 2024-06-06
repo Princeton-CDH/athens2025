@@ -24,13 +24,23 @@ title: People
 ### Summer 2024
 
 Megan Coates
+
 Evita Dandali
+
 Evan Ditter
+
 Kevin Feng
+
 Antonis Katsarakis
+
 Chrysi Kouzoukou
+
 Sofia Nasopoulou
+
 Antonios Nasis
+
 Eleni Papargyriou
+
 Timo Zarakovitis
+
 Angelos Zaloumis
