@@ -3,7 +3,7 @@ title: Schedule
 layout: single
 ---
 
-The following schedule runs from July 3 – 7, 2023. 
+The following schedule runs Tuesday to Friday July 3 – 7, 2024. 
 
 {{< toc >}}
 
@@ -11,8 +11,7 @@ The following schedule runs from July 3 – 7, 2023.
 
 ***********
 
-## Tueday: Day 1: Preliminaries: Text Transformation & the Future of Philology 
-### Morning
+## Tuesday - Preliminaries: Text Transformation & the Future of Philology 
 
 <span class="color">09:00-09:30</span>
 : Arrivals
@@ -23,122 +22,77 @@ The following schedule runs from July 3 – 7, 2023.
 <span class="color">10:00 – 11:00</span>
 : **Session 1 - Digitization: How Texts Become Machine-Readable**
 How do texts become machine-readable? What is the role of libraries, repositories and archival collections in the digital age? How do research infrastructures support this new kind of scholarship? 
-: Christine Roughan, Nikitas Tampakis, Toma Tasovac
+: *Facilitators: Christine Roughan, Nikitas Tampakis, Toma Tasovac*
 
 <span class="color">11:00 – 11:15</span>
 : **Break**
 
 <span class="color">11:15 – 12:30</span>
 : **Session 2 - Working with Machine-Readable Text: Foundations for Greek NLP**
-: Panos Constantopoulou, *UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB*
-: Christine Roughan and John Pavlopoulos
-Topics covered will include: acquiring corpora, lemmatizing, tagging, classifying, quantification, corrections
+: Topics covered will include: acquiring corpora, lemmatizing, tagging, classifying, quantification, corrections
+ *Facilitators: Christine Roughan and John Pavlopoulos*
 
 <span class="color">12:30 – 2pm</span>
 : **Lunch break**
 
 <span class="color">2-3:30pm</span>
 : **Session 3 - Introduction to Deep Learning for Natural Language Processing: From Word Embeddings to ChatGPT**
-: Ion Androutsopoulos*
+: A gentle introduction to key concepts of modern NLP, including word embeddings, Recurrent Neural Networks (RNNs), Transformers, encoder-decoder models. It will also provide examples of applications, such as information extraction from documents, filtering toxic posts on social media, legal judgment prediction, machine translation, image captioning, and code generation.
+: *Facilitator: Ion Androutsopoulos*
 
-<span class="color">15:15 – 16:30</span>
-: Consultations
+<span class="color">3:30 – 4:30</span>
+: Questions and Discussion
 
-### Evening
-<span class="color">18:00 – 19:30</span>
-: Round table on digital humanities in Greece (Princeton Athens Center)
+## Wednesday. Techniques and Technologies for Analyzing Text
 
-<span class="color">20:00 – 21:30</span>
-: Group dinner
+<span class="color">09:30 – 10:45</span>
+: **Session 1 - Text Extraction/HTR**
+: *Facilitators: Christine Roughan, Maria Konstantinidou, John Pavlopoulos*
 
-## Tuesday: Day 2 - Princeton Athens Center
+<span class="color">10:45 – 11am</span>
+: **Break**
 
-### Morning
+<span class="color">11 – 12:15</span>
+: **Session 2 - Text encoding - XML TEI/Epidoc**
+:  *Facilitator: Christine Roughan*
 
-<span class="headlinks">Methods and Projects - Part 1</span>
+<span class="color">12:15 – 1:45pm</span>
+: **Lunch break**
 
-<span class="color">09:30 – 11:00</span>
-: **Machine learning and artificial intelligence for the humanities**
-: Nikitas Tampakis
+<span class="color">11 – 12:15</span>
+: **Session 3 - NLP for Scholarship: Filling Gaps in Ancient Texts. Examples from the Ithaca and Logion projects**
+:  *Facilitators: Nikitas Tampakis and John Pavlopoulos*
 
-Break - 15 minutes
+<span class="color">3 – 7pm</span>
+: **Group trip to the National Library of Greece**
+: Tour of the Manuscripts Department. Group dinner for participants to follow. 
 
-<span class="color">11:15 – 12:45</span>
-: **Information modeling**
-: Panos Constantopoulos
-: Vicky Dritsou
+## Thursday. Digging in Deeper and Project Work 
 
-Lunch break
+<span class="color">09:30 – 10:00</span>
+: **Session 1 - Group discussion and ideas for small-group or individual project work**
 
-### Afternoon
+<span class="color">10 – 12:30</span>
+: **Session 2 - small group meetings or individual consultations**
 
-<span class="color">14:15 – 16:00</span>
-: Individual/group work and consultations
+<span class="color">12:30 – 2pm</span>
+: **Lunch break**
 
+<span class="color">10 – 12:30</span>
+: **Session 3 - small group meetings or individual consultations**
 
-### Evening
-<span class="color">19:00 – 20:30</span>
-: Music event/reception (Princeton Athens Center)
+## Friday. Presentations and Wrap Up 
 
+<span class="color">9:30 – 10:45am</span>
+: Session 1 Participant demos/presentations (6 people; up to 10 mins each)
 
-## Wednesday: Day 3 - Princeton Athens Center
+<span class="color">10:45 – 11am</span>
+: **Break**
 
-### Morning
+<span class="color">11:00 – 12pm</span>
+: Session 2 - Participant demos/presentations (5 people; up to 10 mins each)
 
-<span class="headlinks">Methods and Projects - Part 2</span>
-
-<span class="color">09:30 – 11:00</span>
-: **Digital narratives**
-: Agiatis Benardou
-
-Break - 15 minutes
-
-<span class="color">11:15 – 12:45</span>
-: **3D Data Acquisition and Visualization**
-: Georgios Papaioannou
-
-Lunch break
-
-### Afternoon
-
-<span class="color">14:15 – 16:00</span>
-: Individual/group work and consultations
-
-## Thursday: Day 4 - AUEB
-
-### Morning
-
-<span class="headlinks">Digital methods applied:  scholarship, research, cultural heritage</span>
-
-<span class="color">10:00 – 11:00</span>
-: **Open data, open science**
-: Spiros Athanasiou, *Scientific Associate, Athena Research Center*
-
-<span class="color">11:00 – 12:00</span>
-: **Workflows by example**
-: Maria Ilvanidou, *Scientific Associate, Digital Curation Unit, IMSI-Athena Research Center and Teaching Fellow, AUEB*
-: Vicky Dritsou
-
-<span class="color">12:00 – 13:30</span>
-: Lunch/mixer with AUEB colleagues
-
-### Afternoon
-<span class="color">14:00 – 16:00</span>
-: *Site visit to the Foundation of the Hellenic World*
-
-## Friday: Day 5 - Princeton Athens Center
-
-# Morning
-
-<span class="headlinks">Presentations and Wrap up </span>
-
-<span class="color">10:00 – 10:50</span>
-: Session 1 (4 students; up to 10 mins each)
-
-<span class="color">11:00 – 11:50</span>
-: Session 2 (4 students; up to 10 mins each)
-
-<span class="color">12:00 – 12:50</span>
-: Session 3 (4 students; up to 10 mins each)
+<span class="color">12:00 – 1pm</span>
+: Wrap-up roundtable discussion
 
 
