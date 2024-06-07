@@ -3,7 +3,7 @@ title: Schedule
 layout: single
 ---
 
-The following schedule runs from July 3 – 7, 2023. Each day will involve a mix of seminar-style discussion and hands-on work. Morning sessions will be 9:30a to 1:00p, afternoon sessions will be 2:00p to 4:00p.
+The following schedule runs from July 3 – 7, 2023. 
 
 {{< toc >}}
 
@@ -11,42 +11,35 @@ The following schedule runs from July 3 – 7, 2023. Each day will involve a mix
 
 ***********
 
-## Monday: Day 1 - Princeton Athens Center
+## Tueday: Day 1: Preliminaries: Text Transformation & the Future of Philology 
 ### Morning
 
 <span class="color">09:00-09:30</span>
-: Arrivals, registration
+: Arrivals
 
 <span class="color">09:30-10:00</span>
-: Welcome and logistics, self-introduction of participants
-
-<span class="headlinks">Seminar: theme overviews & reflections on readings</span>
-
-(Few minutes break between topics)
+: Welcome and introductions 
 
 <span class="color">10:00 – 11:00</span>
-: **Machine learning and artificial intelligence for the humanities**
-: Nikitas Tampakis, *Director of Application Development, University of Pennsylvania Libraries*
+: **Session 1 - Digitization: How Texts Become Machine-Readable**
+How do texts become machine-readable? What is the role of libraries, repositories and archival collections in the digital age? How do research infrastructures support this new kind of scholarship? 
+: Christine Roughan, Nikitas Tampakis, Toma Tasovac
 
-<span class="color">11:00 – 12:00</span>
-: **Information modeling**
+<span class="color">11:00 – 11:15</span>
+: **Break**
+
+<span class="color">11:15 – 12:30</span>
+: **Session 2 - Working with Machine-Readable Text: Foundations for Greek NLP**
 : Panos Constantopoulou, *UNESCO Chair on Digital Methods for the Humanities and Social Sciences, AUEB*
-: Vicky Dritsou, *Scientific Associate, Digital Curation Unit, IMSI-Athena Research Center and Postdoctoral Fellow, AUEB*
+: Christine Roughan and John Pavlopoulos
+Topics covered will include: acquiring corpora, lemmatizing, tagging, classifying, quantification, corrections
 
-<span class="color">12:00 – 13:00</span>
-: **Digital narratives**
-: Agiatis Benardou, *Director of DARIAH-EU, Senior Researcher, Digital Curation Unit, IMSI-Athena Research Center and Postdoctoral Fellow, AUEB*
-: Georgios Papaioannou, *Associate Professor, Department of Informatics, AUEB*
+<span class="color">12:30 – 2pm</span>
+: **Lunch break**
 
-Lunch break
-
-### Afternoon
-
-<span class="headlinks">Project planning & consultations</span>
-
-<span class="color">14:15 – 15:15</span>
-: **Digital humanities project design and management**
-: Natalia Ermolaev, *Executive Director, Center for Digital Humanities*
+<span class="color">2-3:30pm</span>
+: **Session 3 - Introduction to Deep Learning for Natural Language Processing: From Word Embeddings to ChatGPT**
+: Ion Androutsopoulos*
 
 <span class="color">15:15 – 16:30</span>
 : Consultations
