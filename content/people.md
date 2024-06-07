@@ -16,7 +16,7 @@ title: People
 
 [Nikitas Tampakis](https://www.library.upenn.edu/detail/person/nikitas-tampakis), Director of Application Development, University of Pennsylvania Libraries
 
-[Christine Roughan](https://marbas.princeton.edu/people/christine-roughan), Postdoctoral Research Associate at the Center for Digital Humanities and Manuscript, Rare Book and Archive Studies at Princeton 
+[Christine Roughan](https://marbas.princeton.edu/people/christine-roughan), Postdoctoral Research Associate at the Center for Digital Humanities and Manuscript, Rare Book and Archive Studies at Princeton
 
 
 ## Participants
@@ -29,7 +29,7 @@ Evita Dandali
 
 Evan Ditter
 
-Kevin Feng
+Steven Feng
 
 Antonis Katsarakis
 
