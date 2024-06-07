@@ -78,7 +78,7 @@ The following schedule runs Tuesday to Friday July 3 – 7, 2024.
 <span class="color">12:30 – 2pm</span>
 : **Lunch break**
 
-<span class="color">10 – 12:30</span>
+<span class="color">2 – 4:30</span>
 : **Session 3 - small group meetings or individual consultations**
 
 ## Friday - Presentations and Wrap Up 
