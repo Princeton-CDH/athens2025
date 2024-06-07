@@ -59,7 +59,7 @@ The following schedule runs Tuesday to Friday July 3 – 7, 2024.
 <span class="color">12:15 – 1:45pm</span>
 : **Lunch break**
 
-<span class="color">11 – 12:15</span>
+<span class="color">1:45 – 3pm</span>
 : **Session 3 - NLP for Scholarship: Filling Gaps in Ancient Texts. Examples from the Ithaca and Logion projects**
 :  *Facilitators: Nikitas Tampakis and John Pavlopoulos*
 
