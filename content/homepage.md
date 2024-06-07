@@ -3,7 +3,7 @@ type: homepage
 layout: single
 ---
 
-<h1 class="tc">Summer Institute: Digital Humanities for Hellenic Studies – Working with Text </h1>
+<h1 class="tc">Summer Institute: Digital Humanities for Hellenic Studies Working with Text </h1>
 
 <h3 class="tc">June 25–28, 2024</h3>
 
