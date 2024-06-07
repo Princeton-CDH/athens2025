@@ -21,7 +21,7 @@ The following schedule runs Tuesday to Friday July 3 – 7, 2024.
 
 <span class="color">10:00 – 11:00</span>
 : **Session 1 - Digitization: How Texts Become Machine-Readable**
-How do texts become machine-readable? What is the role of libraries, repositories and archival collections in the digital age? How do research infrastructures support this new kind of scholarship? 
+: How do texts become machine-readable? What is the role of libraries, repositories and archival collections in the digital age? How do research infrastructures support this new kind of scholarship? 
 : *Facilitators: Christine Roughan, Nikitas Tampakis, Toma Tasovac*
 
 <span class="color">11:00 – 11:15</span>
@@ -43,7 +43,7 @@ How do texts become machine-readable? What is the role of libraries, repositorie
 <span class="color">3:30 – 4:30</span>
 : Questions and Discussion
 
-## Wednesday- Techniques and Technologies for Analyzing Text
+## Wednesday - Techniques and Technologies for Analyzing Text
 
 <span class="color">09:30 – 10:45</span>
 : **Session 1 - Text Extraction/HTR**
