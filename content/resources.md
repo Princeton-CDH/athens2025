@@ -9,14 +9,17 @@ title: Resources
 <br>
 
 **Day 1 readings (required)**
+
 Sommerschield, Assael, Pavlopoulos et al. (2023) Machine learning for ancient languages: A survey. Computational Linguistics, 49(3), 703-747. https://doi.org/10.1162/coli_a_00481
 
 **Day 2 readings & resources (required)**
+
 Explore [Logion project](https://logionproject.squarespace.com/)
 
 Explore [Ithaca project](https://ithaca.deepmind.com/)
 
 **Day 2 readings & resources (recommended)**
+
 [Birnbaum, David. (2021) What is XML and why should humanists care? An even gentler introduction to XML](http://dh.obdurodon.org/what-is-xml.xhtml) 
 
 [Sahle, Patrick. (2016) What is a Scholarly Digital Edition?](https://drive.google.com/file/d/1-2ye0-6R7YraJ5TOpi2mbhO9BbuPr-7Z/view) 
