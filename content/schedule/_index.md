@@ -11,7 +11,7 @@ The following schedule runs Tuesday to Friday June 25-28, 2024.
 
 ***********
 
-## Tuesday - Preliminaries: Text Transformation & the Future of Philology 
+## Day 1 - Preliminaries: Text Transformation & the Future of Philology 
 
 <span class="color">09:00-09:30</span>
 : Arrivals
@@ -43,7 +43,7 @@ The following schedule runs Tuesday to Friday June 25-28, 2024.
 <span class="color">3:30 – 4:30</span>
 : Questions and Discussion
 
-## Wednesday - Techniques and Technologies for Analyzing Text
+## Day 2 - Techniques and Technologies for Analyzing Text
 
 <span class="color">09:30 – 10:45</span>
 : **Session 1 - Text Extraction/HTR**
@@ -67,7 +67,7 @@ The following schedule runs Tuesday to Friday June 25-28, 2024.
 : **Group trip to the National Library of Greece**
 : Tour of the Manuscripts Department. Group dinner for participants to follow. 
 
-## Thursday - Digging in Deeper and Project Work 
+## Day 3 - Digging in Deeper and Project Work 
 
 <span class="color">09:30 – 10:00</span>
 : **Session 1 - Group discussion and ideas for small-group or individual project work**
@@ -81,7 +81,7 @@ The following schedule runs Tuesday to Friday June 25-28, 2024.
 <span class="color">2 – 4:30</span>
 : **Session 3 - small group meetings or individual consultations**
 
-## Friday - Presentations and Wrap Up 
+## Day 4 - Presentations and Wrap Up 
 
 <span class="color">9:30 – 10:45am</span>
 : Session 1 Participant demos/presentations (6 people; up to 10 mins each)
