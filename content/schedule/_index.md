@@ -43,7 +43,7 @@ How do texts become machine-readable? What is the role of libraries, repositorie
 <span class="color">3:30 – 4:30</span>
 : Questions and Discussion
 
-## Wednesday. Techniques and Technologies for Analyzing Text
+## Wednesday- Techniques and Technologies for Analyzing Text
 
 <span class="color">09:30 – 10:45</span>
 : **Session 1 - Text Extraction/HTR**
@@ -67,7 +67,7 @@ How do texts become machine-readable? What is the role of libraries, repositorie
 : **Group trip to the National Library of Greece**
 : Tour of the Manuscripts Department. Group dinner for participants to follow. 
 
-## Thursday. Digging in Deeper and Project Work 
+## Thursday - Digging in Deeper and Project Work 
 
 <span class="color">09:30 – 10:00</span>
 : **Session 1 - Group discussion and ideas for small-group or individual project work**
@@ -81,7 +81,7 @@ How do texts become machine-readable? What is the role of libraries, repositorie
 <span class="color">10 – 12:30</span>
 : **Session 3 - small group meetings or individual consultations**
 
-## Friday. Presentations and Wrap Up 
+## Friday - Presentations and Wrap Up 
 
 <span class="color">9:30 – 10:45am</span>
 : Session 1 Participant demos/presentations (6 people; up to 10 mins each)
