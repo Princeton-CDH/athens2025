@@ -3,7 +3,7 @@ title: Schedule
 layout: single
 ---
 
-The following schedule runs Tuesday to Friday July 3 – 7, 2024. 
+The following schedule runs Tuesday to Friday June 25-28, 2024. 
 
 {{< toc >}}
 
