@@ -3,10 +3,10 @@ type: homepage
 layout: single
 ---
 
-<h1 class="tc">Summer Institute: Digital Humanities for Hellenic Studies Working with Text </h1>
+<h1 class="tc">Summer Institute: Digital Humanities for Hellenic Studies - Visualizing the Past: Mapping Athens’ Lost Neighborhood</h1>
 
-<h3 class="tc">June 25–28, 2024</h3>
+<h3 class="tc">July 7-11, 2025</h3>
 
-This workshop is for scholars curious about exploring digital humanities methods for analyzing the textual culture of the Greek world from antiquity to the present. Topics covered at the workshop will include gathering textual corpora, text analysis, text encoding, Handwritten Text Recognition (HTR), and machine learning/AI approaches. 
+This workshop is designed for scholars interested in exploring digital humanities methods for mapping and spatial visualization. Mapping in the digital humanities provides new perspectives on sources, enables spatial analysis, and offers visual representations of arguments and narratives. Participants will be introduced to key topics, including spatial data collection, geocoding, georeferencing, data wrangling, different types of maps, mapping and visualization platforms, and hosting. 
 
-Instructors from Princeton’s Center for Digital Humanities, the Univeristy of Pennsylvania Libray and the MSc Program in Digital Methods for the Humanities at the Athens University of Economics and Business (AUEB) will serve as instructors, providing both theoretical background as well as technical guidance for DH project design.
+Instructors will include scholars from Princeton’s Center for Digital Humanities (CDH), Princeton University Library, the Visual Resources Department of Art and Archaeology, and the MSc Program in Digital Methods for the Humanities at the Athens University of Economics and Business (AUEB).

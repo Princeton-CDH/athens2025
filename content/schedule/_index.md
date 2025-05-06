@@ -3,7 +3,7 @@ title: Schedule
 layout: single
 ---
 
-The following schedule runs Tuesday to Friday June 25-28, 2024. 
+The following schedule runs Monday to Friday July 7-11, 2025. 
 
 {{< toc >}}
 
@@ -11,7 +11,7 @@ The following schedule runs Tuesday to Friday June 25-28, 2024.
 
 ***********
 
-## Day 1 - Preliminaries: Text Transformation & the Future of Philology 
+## Day 1 - Introduction to Vrysaki, Spatial Humanities, and Architectural Digital Humanities
 
 <span class="color">09:00-09:30</span>
 : Arrivals
@@ -19,78 +19,97 @@ The following schedule runs Tuesday to Friday June 25-28, 2024.
 <span class="color">09:30-10:00</span>
 : Welcome and introductions 
 
-<span class="color">10:00 – 11:00</span>
-: **Session 1 - Digitization: How Texts Become Machine-Readable**
-: How do texts become machine-readable? What is the role of libraries, repositories and archival collections in the digital age? How do research infrastructures support this new kind of scholarship? 
-: *Facilitators: Christine Roughan, Nikitas Tampakis, Toma Tasovac*
+<span class="color">10:00 – 10:45</span>
+: **Session 1 - Vrysaki and Our Collection**
+:  
+: *Facilitators: Agiatis Benardou, Yichin Chen*
 
-<span class="color">11:00 – 11:15</span>
+<span class="color">10:45 – 11:00</span>
 : **Break**
 
-<span class="color">11:15 – 12:30</span>
-: **Session 2 - Working with Machine-Readable Text: Foundations for Greek NLP**
-: Topics covered will include: acquiring corpora, lemmatizing, tagging, classifying, quantification, corrections
- *Facilitators: Christine Roughan and John Pavlopoulos*
+<span class="color">11:00 – 11:45</span>
+: **Session 2 - The Spatial Humanities**
+: Topics covered will include: 
+: *Facilitator: Bryan Winston*
+
+<span class="color">11:45 – 12:30</span>
+: **Session 3 - "Digital interfaces for accessing historical transformations of urban heritage-scapes," or "A case for Architectural Digital Humanities"**
+: Topics covered will include: 
+: *Facilitator: George Artopoulos*
 
 <span class="color">12:30 – 2pm</span>
 : **Lunch break**
 
-<span class="color">2-3:30pm</span>
-: **Session 3 - Introduction to Deep Learning for Natural Language Processing: From Word Embeddings to ChatGPT**
-: A gentle introduction to key concepts of modern NLP, including word embeddings, Recurrent Neural Networks (RNNs), Transformers, encoder-decoder models. It will also provide examples of applications, such as information extraction from documents, filtering toxic posts on social media, legal judgment prediction, machine translation, image captioning, and code generation.
-: *Facilitator: Ion Androutsopoulos*
+<span class="color">2-3:00pm</span>
+: **Session 4 - Working with Our Collection: Data Wrangling and Coordinates**
+: 
+: *Facilitators: Bryan Winston, Yichin Chen*
 
-<span class="color">3:30 – 4:30</span>
-: Questions and Discussion
+<span class="color">Evening Time TBD</span>
+: Group Trip to Vrysaki Site
 
-## Day 2 - Techniques and Technologies for Analyzing Text
+## Day 2 - From Paper to Digital
 
 <span class="color">09:30 – 10:45</span>
-: **Session 1 - Text Extraction/HTR**
-: *Facilitators: Christine Roughan, Maria Konstantinidou, John Pavlopoulos*
+: **Session 1 - **
+: *Facilitators: *
 
 <span class="color">10:45 – 11am</span>
 : **Break**
 
 <span class="color">11 – 12:15</span>
-: **Session 2 - Text encoding - XML TEI/Epidoc**
-:  *Facilitator: Christine Roughan*
+: **Session 2 - **
+:  *Facilitator: *
 
 <span class="color">12:15 – 1:45pm</span>
 : **Lunch break**
 
 <span class="color">1:45 – 3pm</span>
-: **Session 3 - NLP for Scholarship: Filling Gaps in Ancient Texts. Examples from the Ithaca and Logion projects**
-:  *Facilitators: Nikitas Tampakis and John Pavlopoulos*
+: **Session 3 - **
+:  *Facilitators: *
 
 <span class="color">3 – 7pm</span>
-: **Group trip to the National Library of Greece**
-: Tour of the Manuscripts Department. Group dinner for participants to follow. 
+: ****
+:  
 
-## Day 3 - Digging in Deeper and Project Work 
+## Day 3 - Tools and Ideation
 
 <span class="color">09:30 – 10:00</span>
-: **Session 1 - Group discussion and ideas for small-group or individual project work**
+: **Session 1 - **
 
 <span class="color">10 – 12:30</span>
-: **Session 2 - small group meetings or individual consultations**
+: **Session 2 - **
 
 <span class="color">12:30 – 2pm</span>
 : **Lunch break**
 
 <span class="color">2 – 4:30</span>
-: **Session 3 - small group meetings or individual consultations**
+: **Session 3 - **
 
-## Day 4 - Presentations and Wrap Up 
+## Day 4 - Building and Storytelling 
 
 <span class="color">9:30 – 10:45am</span>
-: Session 1 Participant demos/presentations (6 people; up to 10 mins each)
+: Session 1 
 
 <span class="color">10:45 – 11am</span>
 : **Break**
 
 <span class="color">11:00 – 12pm</span>
-: Session 2 - Participant demos/presentations (5 people; up to 10 mins each)
+: Session 2 - 
+
+<span class="color">12:00 – 1pm</span>
+: 
+
+## Day 5 - Lost Vyrsaki and Wrap Up 
+
+<span class="color">9:30 – 10:45am</span>
+: Session 1 
+
+<span class="color">10:45 – 11am</span>
+: **Break**
+
+<span class="color">11:00 – 12pm</span>
+: Session 2 - 
 
 <span class="color">12:00 – 1pm</span>
 : Wrap-up roundtable discussion
